@@ -49,7 +49,7 @@
     </table></td>
   </tr>
   <tr>
-    <td height="240" align="center"><img src="img/111.jpg" width="1001" height="240" alt=""/></td>
+    <td height="240" align="center"><img src="images/111.jpg" width="1001" height="240" alt=""/></td>
   </tr>
 </table>
 <table width="1001" border="0" cellspacing="0" cellpadding="0" align="center">
